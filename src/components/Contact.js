@@ -1,12 +1,10 @@
 import React from "react";
 
 const ContactPage = () => (
-
-<div>
+  <div>
     <h1>Contact</h1>
-    <p>My Contact Page</p>
-</div>
-
+    <p>My Contact Page test@gmail.com</p>
+  </div>
 );
 
 export default ContactPage;
